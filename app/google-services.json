@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "236770861814",
+    "firebase_url": "https://trafort-98105.firebaseio.com",
+    "project_id": "trafort-98105",
+    "storage_bucket": "trafort-98105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236770861814:android:b2ce3a131ef7c039",
+        "android_client_info": {
+          "package_name": "com.example.trafort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236770861814-logvh3213uabsc34j5pgacuuloj79a87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trafort",
+            "certificate_hash": "f5c0f253cd6b8a314498daded70d91cb289d40c2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF-M6LwZ-y4Ry4Um9Cad2iWlPZB9kPUFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236770861814-6t9bbn9rth95581etf5b8tqb3ths3375.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

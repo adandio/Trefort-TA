@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#25B7D3</color>
+    <color name="colorPrimaryDark">#3cb878</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="deviderColor">#80cbc4</color>
+    <color name="list_item_tittle">#aaaaaa</color>
+    <color name="list_group_tittle">#808080</color>
+    <color name="bghome">#ececec</color>
+</resources>
